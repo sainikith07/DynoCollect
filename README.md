@@ -649,7 +649,7 @@ If you find DynoCollect helpful, please consider giving us a star!
 
 ---
 
-*Built with ❤️ by Team DynoCollect | Empowering Data Collection Since 2024*
+*Built with ❤️ by Team DynoCollect | Empowering Data Collection Since 2025*
 
 **© 2024 DynoCollect Team. All rights reserved.**
 
