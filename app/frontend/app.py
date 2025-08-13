@@ -6,7 +6,7 @@ import time
 # ---------- Config ----------
 API_URL = "https://dynocollect.onrender.com"
 
-st.set_page_config(
+st.set_page_config( 
     page_title="Swecha Media Upload",
     page_icon="🚀",
     layout="wide",
